@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">An aspiring full stack developer based in Cardiff</h3>
 
 - 🌱 I’m a Software Engineer at Toolstation
 
