@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">An aspiring full stack developer based in Cardiff</h3>
 
-- 🌱 I’m currently studying **at the IO Academy**
-
-- 👨‍💻 All of my projects are available at [josh-lew.github.io](josh-lew.github.io)
+- 🌱 I’m a Software Engineer at Toolstation
 
 - 📫 You can reach me at **joshlewisdev@gmail.com**
 
