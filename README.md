@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Josh 👋</h1>
 
-- 🌱 I’m a freelance Software Engineer with experience in react.js, react native, typescript, node.js and PHP.
+- 🌱 I’m a freelance Software Developer
+  
+- 💻 I have professional experience working with react.js, react native, typescript, node.js and PHP.
 
 - 📫 You can reach me at **joshlewisdev@gmail.com**
 
