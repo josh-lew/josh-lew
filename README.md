@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
+<h1 align="center">Hi, I'm Josh 👋</h1>
 
 - 🌱 I’m a freelance Software Engineer with experience in react.js, react native, typescript, node.js and PHP.
 
